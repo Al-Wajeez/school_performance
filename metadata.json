@@ -1,0 +1,6 @@
+{
+  "name": "School Performance Analytics Dashboard",
+  "description": "An advanced bicultural analytics dashboard for school performance assessment, tailored for educational psychologists in the Algerian middle school system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
