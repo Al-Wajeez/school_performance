@@ -104,7 +104,7 @@ export default function App() {
             {/* Branding title */}
             <div className="flex items-center gap-3">
               <div className="w-12 h-12 rounded-xl flex items-center justify-center shrink-0 overflow-hidden">
-                <img src="/favicon.png" alt="الوجيز" className="w-full h-full" />
+                <img src="/favicon.ico" alt="الوجيز" className="w-full h-full" />
               </div>
               <div className="text-right">
                 <div className="flex items-center gap-2">
